@@ -1,7 +1,9 @@
-# TikTok Reddit Bot
+# Reedit2TikTok bot
 
 ## Intro
-This project aims to automate the creation of TikTok videos that reads Reddit posts.
+The content found on TikTok, YouTube, and Instagram accumulates millions of views collectively, demanding minimal input. The crux of originality often lies solely in editing and content compilation...
+
+... Yet, envision a scenario where this procedure could be automated.
 
 ## Steps
 1. Read Reddit API and store text posts.
@@ -12,13 +14,12 @@ This project aims to automate the creation of TikTok videos that reads Reddit po
 
 ## Installation
 1. Clone repository.
-2. Create a personal Reddit application script. Store personal use script and secret token.
+2. Create a personal Reddit application script using the following link https://www.reddit.com/prefs/apps. Store personal use script and secret token.
 3. Edit the constants.txt file with those tokens and the Reddit account username and password.
 4. Run MainSetup.py.
 
 ## Dependencies
 * Python libraries: pip install -r requirements.txt
-* Tested on python v3.11 64-bit
 
 ### Note
-Currently saved videos have to be uploaded manually. Although you can do it using the TikTok API it is difficult to gain access for personal use. Other ways would include using web automation like selenium or AutoIt. However, these options seem rather dirty and even triggers bot warning in TikTok website filters.
+Currently, one must manually upload saved videos. While utilizing the TikTok API for this purpose is possible, obtaining personal access proves to be challenging.
