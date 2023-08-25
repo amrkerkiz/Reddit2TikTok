@@ -23,3 +23,7 @@ The content found on TikTok, YouTube, and Instagram accumulates millions of view
 
 ### Note
 Currently, one must manually upload saved videos. While utilizing the TikTok API for this purpose is possible, obtaining personal access proves to be challenging.
+
+### Demo Video
+https://github.com/amrkerkiz/Reddit2TikTok/assets/89613119/2ab37d4b-aa66-4b20-9cc3-4a6f3b71782c
+
